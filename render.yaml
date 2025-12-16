@@ -1,0 +1,28 @@
+services:
+  - type: web
+    name: ai-backend
+    runtime: docker
+    repo: https://github.com/Ayyushhhhh/learning-platform
+    region: oregon
+    plan: free
+    branch: main
+    rootDir: backend
+    envVars:
+      - key: PORT
+        value: 8000
+    healthCheckPath: /health
+
+  - type: web
+    name: ai-frontend
+    runtime: docker
+    repo: https://github.com/Ayyushhhhh/learning-platform
+    region: oregon
+    plan: free
+    branch: main
+    rootDir: frontend
+    envVars:
+      - key: NEXT_PUBLIC_API_URL
+        fromService:
+          type: web
+          name: ai-backend
+          property: host

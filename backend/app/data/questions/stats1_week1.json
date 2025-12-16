@@ -1,0 +1,533 @@
+[
+    {
+        "id": 1,
+        "question_text": "Identify the sample and population from the statement given above.\n\nThe sample consists of students from all across India, and population consists of students from the urban areas of India.\n\nThe sample consists of students from the urban areas of India and the population consists of students from all across India.\n\nThe sample consists of students from the urban areas of India and the population consists of selected 10,000 students from the urban areas of India.\n\nThe sample consists of the selected 10,000 students from the urban areas of India and the population consists of students from all across India.",
+        "correct_answer": "The sample consists of the selected 10,000 students from the urban areas of India and the population consists of students from all across India.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 2,
+        "question_text": "Identify the correct statements from the following:\n\nAforementioned conclusion made on the basis of the sample is correct.\n\nAforementioned conclusion is not correct because the sample is not a good representation of the population.\n\nThe sample is a good representation of the population.\n\nNone of the above.",
+        "correct_answer": "Aforementioned conclusion is not correct because the sample is not a good representation of the population.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 3,
+        "question_text": "What can you say about the nature of the study ? (more than one option can be correct)\n\nThe study is descriptive.\n\nThe study is inferential.\n\nThe study is descriptive but not inferential.\n\nThe study is inferential but not descriptive.",
+        "correct_answer": "The study is inferential.\nThe study is inferential but not descriptive.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 4,
+        "question_text": "According to a news report, Facebook is partnering with external researchers from the fields of political science and social media to examine the impact of social networking sites on the society during the 2020 U.S. Presidential elections. Between 200,000 to 400,000 users are expected to opt into the project to see how they behave on Facebook and Instagram.\n\nWhich branch of statistics does the above analysis come under?\n\nInferential statistics\n\nDescriptive statistics",
+        "correct_answer": "Inferential statistics",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 5,
+        "question_text": "Choose the correct statements about descriptive statistics from the following: (more than one option can be correct)\n\nDescriptive statistics is concerned with drawing conclusions from the data\n\nDescriptive statistics is concerned with describing and summarizing the data.\n\nDescriptive statistics can be performed either on a sample or a population.\n\nDescriptive statistics can only be performed on a sample.\n\nWe must always take into account the possibility of chance while studying descriptive statistics.",
+        "correct_answer": "Descriptive statistics is concerned with describing and summarizing the data.\nDescriptive statistics can be performed either on a sample or a population.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 6,
+        "question_text": "Central Pollution Control Board wants to check the Air Quality Index (AQI) of all the major cities in India after Diwali to decide if air pollution is reaching unhealthy levels. To do so, they have come up with a list of all the major cities and their respective AQI levels and want to determine which cities among the list have an AQI level greater than 100. What kind of statistics does the above analysis come under?\n\nDescriptive statistics\n\nInferential statistics",
+        "correct_answer": "Descriptive statistics",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 7,
+        "question_text": "Suppose we are interested in studying the height of an average Indian adult above the age of 18. Due to practical constraints, it is not possible to collect the data for the whole country. So we decide to choose a sample of 10,000 people. Which of the following choices for this sample do you think is the most representative of the population?\n\nA sample consisting of 10,000 people from Karnataka.\n\nA sample consisting of 10,000 women from South India\n\nA sample consisting of 2000 adults from each part of India (i.e., from northern, southern, eastern, western, and middle parts of India)\n\nA sample consisting of 10,000 people from all over the country who are above 70 kg but below 75 kg.",
+        "correct_answer": "A sample consisting of 2000 adults from each part of India (i.e., from northern, southern, eastern, western, and middle parts of India)",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 8,
+        "question_text": "Which one of the following statements best describes the difference between population and sample?\n\nSample is the entire group, while population is a subset of the sample which is used to describe the parameters of the sample.\n\nSample and population are synonyms of each other\n\nPopulation is the entire group, while sample is a subset of the population which is used to describe the parameters of the population\n\nPopulation is all members of an organization while sample is the members of the organization who volunteer to participate in the study.",
+        "correct_answer": "Population is the entire group, while sample is a subset of the population which is used to describe the parameters of the population",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 9,
+        "question_text": "According to the International Cricket Council (ICC), a test cricket ball, when new, should not weigh more than 163 grams. The manufacturers of Duke cricket ball suspected that the average weight of their product is more than 163 grams. To confirm this, 100 Duke cricket balls were selected. Based on this, choose the correct option from below.\n\nThe population is all cricket balls; sample is 100 Duke cricket balls\n\nThe population is all Duke cricket balls; sample is 100 cricket balls\n\nThe population is all Duke cricket balls; sample is 100 Duke cricket balls\n\nThe population is all Duke cricket balls; sample is all Duke cricket balls",
+        "correct_answer": "The population is all Duke cricket balls; sample is 100 Duke cricket balls",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 10,
+        "question_text": "A director of an engineering institute wants to evaluate the performance of students of all years and all departments (Computer Science, Mechanical Engineering, Electrical and Electronics Engineering, Electronics and Communication Engineering) in the institute. He randomly selects performance reports of 50 students from the first year Computer Science batch. Based on this, choose the correct option from below.\n\nThe sample chosen is correct as it is collected randomly.\n\nThe sample chosen is wrong as it is not collected randomly\n\nThe sample chosen is correct as it is a subset of the population.\n\nThe sample chosen is wrong as it is not a representative of the entire population",
+        "correct_answer": "The sample chosen is wrong as it is not a representative of the entire population",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 11,
+        "question_text": "A construction company wants to start a house construction business in a city. Since there is a large number of houses, the company collects a sample of houses from the city and uses the properties of the sample to study house prices in the city. Which branch of statistics does the above analysis come under?\n\nDescriptive statistics\n\nInferential statistics",
+        "correct_answer": "Inferential statistics",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 12,
+        "question_text": "An online opinion poll was conducted by a film reviewing website to rank Indian films from the 2000s. Among the 1000 films in the list, Bhaag Milkha Bhaag received the maximum number of votes followed by 3 Idiots and Swades respectively. Which branch of statistics does the above analysis come under?\n\nDescriptive statistics\n\nInferential statistics",
+        "correct_answer": "Descriptive statistics Which of the following statement(s) is(are) true about structured data in a spreadsheet?\n\nEach observation must have its own row.\n\nEach variable must have its own column.\n\nFor each variable the same type of value for each case is recorded.\n\nFor each case the same type of value for each variable is recorded.\nYes, the answer is correct.\nScore: 1\nAccepted Answers:\nEach observation must have its own row.\nEach variable must have its own column.\nFor each variable the same type of value for each case is recorded.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 13,
+        "question_text": "What kind of data is lyrics of a song?\n\nUnstructured data\n\nStructured data",
+        "correct_answer": "Unstructured data",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 14,
+        "question_text": "Data is collected from people of every family living in a locality. The collected information is first name, second name, income, height, weight, blood group, house address, locality. Which among the following collected data is(are) not a variable(s)?\n\nFirst name\n\nSecond name\n\nIncome\n\nHeight\n\nWeight\n\nBlood group\n\nHouse address\n\nLocality",
+        "correct_answer": "Locality",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 15,
+        "question_text": "The values of temperature and relative humidity of a room are measured for 24 hours, starting at 9 AM, at time interval of 30 minutes [Table 1.2.1]. What are the case(s) and variable(s) for this data?\n\n\n\nTemperature is the case; relative humidity and time are the variables\n\nTemperature is the case; relative humidity is the variable\n\nTime is the case; temperature and relative humidity are the variables\n\nRelative humidity is the case; temperature is the variable\n\n9 AM, 9:30 AM, 10 AM are cases; time, temperature, and relative humidity are variables.",
+        "correct_answer": "9 AM, 9:30 AM, 10 AM are cases; time, temperature, and relative humidity are variables.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 16,
+        "question_text": "Which of the following is(are) example(s) of unstructured data?\n\nWeb pages\n\nVideo files\n\nImage files\n\nPhone number\n\nEmail address",
+        "correct_answer": "Web pages\nVideo files\nImage files",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 17,
+        "question_text": "Which of the following statement(s) is(are) true?\n\nAll the structured data have units.\n\nComments in a social media platform are structured data.\n\nUnstructured data cannot be used directly to perform statistical analysis.\n\nMathematical operations can be performed on unstructured data.",
+        "correct_answer": "Unstructured data cannot be used directly to perform statistical analysis.\n\nIn a survey, art students are asked to mention their favourite artist and the amount of time they spend in painting outside the classroom. The data collected are given in Table 1.2.2.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 18,
+        "question_text": "What is the scale of measurement for the amount of money you have?\n\nNominal\n\nOrdinal\n\nRatio\n\nInterval",
+        "correct_answer": "Ratio",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 19,
+        "question_text": "What is the scale of measurement for the military titles - Major, Captain, Colonel?\n\nNominal\n\nOrdinal\n\nRatio\n\nInterval",
+        "correct_answer": "Ordinal",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 20,
+        "question_text": "Which of the following variables has (have) ratio scale of measurement?\n\nTemperature in Kelvin\n\nTemperature in Centigrade\n\nYear\n\nAngle measured in degrees",
+        "correct_answer": "Temperature in Kelvin\nAngle measured in degrees",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 21,
+        "question_text": "Which of the following mathematical operation(s) can be performed on interval variables?\n\nAddition\n\nSubtraction\n\nMultiplication\n\nDivision",
+        "correct_answer": "Addition\nSubtraction",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 22,
+        "question_text": "Suppose a sample is collected and it is used to describe and summarize the sample, then the study is:\n\nDescriptive\n\nInferential",
+        "correct_answer": "Descriptive\n \n\n\n\nBased on the data in Table 1.2.2, answer the following three questions:",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 23,
+        "question_text": "Is the data given in Table 1.2.2 structured or unstructured?\n\nThe data is structured.\n\nThe data is not structured.",
+        "correct_answer": "The data is structured.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 24,
+        "question_text": "Identify the variable(s) and observation(s) from the dataset given in Table 1.2.2.\n\nName is an observation\n\nName, Gender, Amount of time, and Favourite artist are variables\n\nStudent and Name are variables\n\nEach student is an observation",
+        "correct_answer": "See explanation",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 25,
+        "question_text": "A courier service is interested in knowing customer feedback. The customers are being given the following options to choose from.\nNot satisfied\nSomewhat unsatisfied\nNeutral\nSatisfied\nVery Satisfied\nWhat scale of measurement has been used here?\n\nOrdinal\n\nNominal\n\nInterval\n\nRatio",
+        "correct_answer": "Ordinal",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 26,
+        "question_text": "For which of the following scale(s) of measurement is rank or order meaningful?\n\nInterval scale\n\nRatio, interval and ordinal scale\n\nNominal scale\n\nOrdinal scale",
+        "correct_answer": "Interval scale\nRatio, interval and ordinal scale\nOrdinal scale",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 27,
+        "question_text": "A survey has been conducted to determine the amount of time (in minutes) a student below the age of 12 spends on playing video games. The students are being given the following options to choose from.\nLess than 30\n30-45\n45-60\nMore than 60\nWhat kind of scale(s) of measurement has been used here?\n\nInterval scale\n\nRatio scale\n\nRatio and Interval scale\n\nOrdinal scale",
+        "correct_answer": "Ordinal scale",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 28,
+        "question_text": "Katheryn has recently read the booker prize winner \u201cThe Discomfort of Evening\u201d by Marieke Lucas Rijneveld, and decided to rate this book on the Goodreads website. There she is asked to rate the book on a scale of 1 - 5. What kind of scale(s) of measurement is(are) being used here for rating?\n\nInterval scale\n\nOrdinal scale\n\nRatio scale\n\nBoth interval and ratio scale\n\nBoth interval and ordinal scale",
+        "correct_answer": "Interval scale",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 29,
+        "question_text": "What can you say about the scale(s) of measurement being used for describing hair color such as blonde, brunette, red, and black?\n\nThe scale of measurement is ordinal\n\nThe scale of measurement is both ordinal and nominal\n\nThe scale of measurement is nominal",
+        "correct_answer": "The scale of measurement is nominal",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 30,
+        "question_text": "What is the scale of measurement for phone number?\n\nOrdinal\n\nNominal\n\nInterval\n\nRatio",
+        "correct_answer": "Nominal",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 31,
+        "question_text": "Which of the following is/are true for a variable with ratio scale of measurement?\n\nAddition operation can be performed\n\nSubtraction operation can be performed\n\nMultiplication operation can be performed\n\nDivision operation can be performed\n\nThe variable with ratio scale of measurement can have zero as one of its values",
+        "correct_answer": "Addition operation can be performed\nSubtraction operation can be performed\nMultiplication operation can be performed\nDivision operation can be performed\nThe variable with ratio scale of measurement can have zero as one of its values",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 32,
+        "question_text": "If addition, subtraction can be performed on a variable, then the scale(s) of measurement of the variable could be:\n\nRatio\n\nOrdinal\n\nInterval\n\nNominal",
+        "correct_answer": "Ratio\nInterval\n \nYes, the answer is correct.\nScore: 1\nAccepted Answers:\nName, Gender, Amount of time, and Favourite artist are variables\nEach student is an observation",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 33,
+        "question_text": "Choose the correct statement(s) from the following:\n\nStatement 1: Amount of time Aakash spends on painting is 0 hr.\nStatement 2: We cannot make any conclusion about Aakash because data is not available to us.\n\nBoth the statements are correct.\n\nStatement 1 is correct but statement 2 is not correct.\n\nStatement 2 is correct but statement 1 is not correct\n\nNone of the statements are correct",
+        "correct_answer": "Statement 2 is correct but statement 1 is not correct",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 34,
+        "question_text": "In order to forecast tomorrow\u2019s temperature in Mumbai, the India Meteorological Department collects the temperature, humidity and rainfall data of Mumbai for all days from the past three months. What kind of data is this?\n\nTime series data\n\nCross-sectional data",
+        "correct_answer": "Time series data",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 35,
+        "question_text": "What kind of variables are comparative forms of adverbs (like more, less; good, better and best etc.)?\n\nCategorical variables\n\nNumerical variables",
+        "correct_answer": "Categorical variables",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 36,
+        "question_text": "What kind of variables are date and day of the week?\n\nCategorical and numerical variables respectively\n\nBoth are numerical variables\n\nBoth are categorical variables\n\nNumerical and categorical variables respectively",
+        "correct_answer": "Both are categorical variables",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 37,
+        "question_text": "What kind of variable is latitude?(More than one option can be correct)\n\nNumerical\n\nCategorical\n\nContinuous\n\nDiscrete",
+        "correct_answer": "Numerical\nContinuous",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 38,
+        "question_text": "During the Great Depression, several countries across the world experienced a rise in the rate of unemployment. The unemployment rate between the years 1929 and 1942 in the US was recorded on a monthly basis. Determine whether the data is time series or cross-sectional.\n\nThe data is time series\n\nThe data is cross-sectional",
+        "correct_answer": "The data is time series",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 39,
+        "question_text": "Number of days a group of students take to finish a school project is a:\n\nQuantitative and Discrete variable\n\nQuantitative and Continuous variable\n\nQualitative variable\n\nQuantitative but not discrete or continuous variable",
+        "correct_answer": "Quantitative and Discrete variable",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 40,
+        "question_text": "What kind of variable is the qualification of a candidate sitting for a job interview?\n\nCategorical/ Qualitative\n\nNumerical/ Quantitative\n\nNumerical and discrete\n\nNumerical and continuous",
+        "correct_answer": "Categorical/ Qualitative",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 41,
+        "question_text": "Suppose one is interested in calculating the weight of a bag (in kg) before leaving for the airport. What kind of variable is the weight of the bag?\n\nQuantitative and discrete\n\nQuantitative and continuous\n\nQualitative or categorical",
+        "correct_answer": "Quantitative and continuous\n A local government wants to assess the number of the rich, middle class, and poor people living in a particular region. To understand this, the government defined the categories based on the annual income of its citizens [Table 1.1.A]. Income is measured in lakhs of rupees per year\n\nPoor \t\t:  income \u2264 4 lakhs\nMiddle Class\t:  4 lakhs < income \u2264 8 lakhs\nRich \t\t:  income > 8 lakhs",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 42,
+        "question_text": "What kind of a variable is income in the given dataset?\n\nCategorical\n\nDiscrete numerical variable\n\nContinuous numerical variable",
+        "correct_answer": "Categorical",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 43,
+        "question_text": "What is the scale of measurement of the variable income in the given dataset?\n\nNominal\n\nInterval\n\nOrdinal\n\nRatio",
+        "correct_answer": "Ordinal\n\nUse the following information and the data given in Table 1.2.A and Table 1.3.A to answer the questions 3, 4 and 5.\n\nGoogle provides users with the option to rate any app on their Play Store. A user can rate an app by giving an integer rating from 1 to 5.\nThe rating of the app is then computed as the arithmetic mean of all user ratings. Tables 1.2.A and 1.3.A show the rating given by users and average rating of apps respectively.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 44,
+        "question_text": "What kind of a variable is the rating given by each user to an app?\n\nCategorical\n\nDiscrete numerical variable\n\nContinuous numerical variable",
+        "correct_answer": "Discrete numerical variable",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 45,
+        "question_text": "What is the scale of measurement of the rating given by the user?\n\nOrdinal\n\nNominal\n\nInterval\n\nRatio",
+        "correct_answer": "Interval",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 46,
+        "question_text": "What kind of a variable is the overall rating of an app on play store?\n\nCategorical\n\nDiscrete numerical variable\n\nContinuous numerical variable",
+        "correct_answer": "Continuous numerical variable\n\nUse the following information and the data given in Table 1.4.A to answer the questions 6,7, and 8.\n\nKarthik wants to start a shoe production company for all the Indian market. To analyse public preferences, he hires a team of market researchers who conduct market research in two states: Andhra Pradesh and Maharashtra. The market research team prepares a form to collect the data and the collected dataset is shown in Table 1.4.A",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 47,
+        "question_text": "Is the sample a representative of the population?\n\nTrue\n\nFalse",
+        "correct_answer": "False\nHow many variables from the collected survey data are categorical?\n4\nYes, the answer is correct.\nScore: 1\nAccepted Answers:\n(Type: Numeric) 4",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 48,
+        "question_text": "Which of the collected data is unstructured?\n\nS.No\n\nName\n\nAge (years)\n\nShoe material\n\nPurpose\n\nPrice range\n\nSuggestions",
+        "correct_answer": "Suggestions\n\nUse the following information and the data given in Table 1.5.A to answer the questions 9,10 and 11.\n\nNaresh is a bike enthusiast and wants to know about the specifications of all the major bikes available in the market. He collects data for different bike models which is given in Table 1.5.A.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 49,
+        "question_text": "Which of the following is(are) case(s) or observation(s) for the given bike dataset?\n\nKTM 790 Duke\n\nYamaha MT 09\n\nYamaha\n\nDisplacement in CC",
+        "correct_answer": "KTM 790 Duke\nYamaha MT 09",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 50,
+        "question_text": "Which of the following is(are) continuous variable(s) in the given bike dataset?\n\nMileage\n\nDisplacement\n\nNumber of cylinders\n\nAverage Rating",
+        "correct_answer": "Mileage\nDisplacement\nAverage Rating",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 51,
+        "question_text": "Statement - The sample should be representative of the population.\n\nTrue, since the sample is a subset of the population.\n\nTrue, because the sample is a subset of the population and we derive the properties of the population like mean, median from the sample.\n\nFalse, sample need not be representative of the population.",
+        "correct_answer": "True, because the sample is a subset of the population and we derive the properties of the population like mean, median from the sample.\n\nUse the following information to answer the questions 12, 13, and 14.\nThe head of a locality in Chennai conducted a survey in her locality regarding Covid-19. According to the survey,\nStatement 1: 59% of the residents consider Covid-19 to be a serious disease.\nStatement 2: 41% consider it as normal flu and are of the opinion that there should not be any lockdown.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 52,
+        "question_text": "Which of the following is a case/observation for the above data?\n\nIndia\n\nPerson who answered the survey\n\nCovid-19\n\nFlu",
+        "correct_answer": "Person who answered the survey",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 53,
+        "question_text": "If all the residents of the locality participated in the survey, what statistical analysis can be done using this data?\n\nInferential statistics\n\nDescriptive statistics",
+        "correct_answer": "Descriptive statistics",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 54,
+        "question_text": "Suppose the survey collected data from 100 of the locality residents taken at random. Now, what statistical analysis can be done to issue Statements 1 and 2 from this data?\n\nInferential statistics\n\nDescriptive statistics",
+        "correct_answer": "Inferential statistics\n\n\nA biomedical company generated a new vaccine for Covid-19 and tested it on the few people. After a few days medical checkup was done on them and the report is given in Table \n1.\nG\n.1.\n1.G.1. In Table \n1.\nG\n.1\n1.G.1. \nB\nP\nBP stands for Blood Pressure, \nH\nP\nHP stands for High Pressure, and \nL\nP\nLP stands for Low Pressure. Based on this information and data given in Table \n1.\nG\n.1\n,\n1.G.1, answer the questions \n15\n,\n16\n15,16 and \n17.\n17.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 55,
+        "question_text": "Which of the following variable(s) given in Table \n1.\nG\n.1\n1.G.1 is/are numerical variables?\n\nHeadache\n\nGender\n\nWeight (Kg)\n\nTemperature (\no\nF\no\n F)",
+        "correct_answer": "Weight (Kg)\nTemperature (\no\nF\no\n F)",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 56,
+        "question_text": "Which of the following is/are cases?\n\nM\n\nName\n\nHitesh\n\nKeerthi\n\nMild\n\nGender",
+        "correct_answer": "Hitesh\nKeerthi",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 57,
+        "question_text": "Which of the following variables have ratio scale of measurement?\n\nGender\n\nBP (HP/LP)\n\nWeight (Kg)\n\nTemperature (\no\nF\no\n F)",
+        "correct_answer": "Weight (Kg)\n\n\nIn a supermarket, the bill for each customer is given in an ordered tabular form. The bill for the customer Pavithra, which is purchased on \n1\n1 Mar \n2021\n,\n2021, is given in Table \n1.\nG\n.2.\n1.G.2. Assume cost/unit is a continuous numerical variable. Total cost is calculated by the following formula. Total cost = Cost/unit \u00d7 Units Based on this information and data given in Table \n1.\nG\n.2\n,\n1.G.2, answer the questions \n18\n18 and \n19.\n19.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 58,
+        "question_text": "Which of the following variable/s given in Table \n1.\nG\n.2\n1.G.2 have ratio scale of measurement?\n\nCost/unit\n\nTotal cost\n\nUnits\n\nS.No",
+        "correct_answer": "Cost/unit\nTotal cost\nUnits",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    },
+    {
+        "id": 59,
+        "question_text": "Which of the following statements is/are true about data given Table \n1.\nG\n.2\n?\n1.G.2?\n\nCadbury Diary Milk Silk, Cello Fine Grip, and Shimla Apples are cases/observations.\n\nCost/unit, Units, and Total cost are continuous numerical variables.\n\nCost/unit and Total cost are continuous numerical variables.\n\nCost/unit and Units are continuous numerical variables.\n\nThe given data in Table \n1.\nG\n.2\n1.G.2 is time-series data.\n\nThe given data in Table \n1.\nG\n.2\n1.G.2 is cross-sectional data.",
+        "correct_answer": "Cadbury Diary Milk Silk, Cello Fine Grip, and Shimla Apples are cases/observations.\nCost/unit and Total cost are continuous numerical variables.\nThe given data in Table \n1.\nG\n.2\n1.G.2 is cross-sectional data.",
+        "explanation": "Derived from Accepted Answers.",
+        "topic": "Statistics 1",
+        "week": 1,
+        "difficulty": "Medium"
+    }
+]

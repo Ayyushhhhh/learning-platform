@@ -1,0 +1,1057 @@
+A study has been conducted to examine whether the students who had applied for MAEEE entrance exam in 2020 are willing to write the exam in the coming week or not. A group of 10,000 students were randomly selected from the urban areas of India for this study. It is concluded that roughly 80 percent of the students want to write the exam.
+
+Based on the above information, answer the following three questions.
+1 point
+Identify the sample and population from the statement given above.
+
+The sample consists of students from all across India, and population consists of students from the urban areas of India.
+
+The sample consists of students from the urban areas of India and the population consists of students from all across India.
+
+The sample consists of students from the urban areas of India and the population consists of selected 10,000 students from the urban areas of India.
+
+The sample consists of the selected 10,000 students from the urban areas of India and the population consists of students from all across India.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+The sample consists of the selected 10,000 students from the urban areas of India and the population consists of students from all across India.
+1 point
+Identify the correct statements from the following:
+
+Aforementioned conclusion made on the basis of the sample is correct.
+
+Aforementioned conclusion is not correct because the sample is not a good representation of the population.
+
+The sample is a good representation of the population.
+
+None of the above.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Aforementioned conclusion is not correct because the sample is not a good representation of the population.
+1 point
+What can you say about the nature of the study ? (more than one option can be correct)
+
+The study is descriptive.
+
+The study is inferential.
+
+The study is descriptive but not inferential.
+
+The study is inferential but not descriptive.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+The study is inferential.
+The study is inferential but not descriptive.
+1 point
+According to a news report, Facebook is partnering with external researchers from the fields of political science and social media to examine the impact of social networking sites on the society during the 2020 U.S. Presidential elections. Between 200,000 to 400,000 users are expected to opt into the project to see how they behave on Facebook and Instagram.
+
+Which branch of statistics does the above analysis come under?
+
+Inferential statistics
+
+Descriptive statistics
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Inferential statistics
+1 point
+Choose the correct statements about descriptive statistics from the following: (more than one option can be correct)
+
+Descriptive statistics is concerned with drawing conclusions from the data
+
+Descriptive statistics is concerned with describing and summarizing the data.
+
+Descriptive statistics can be performed either on a sample or a population.
+
+Descriptive statistics can only be performed on a sample.
+
+We must always take into account the possibility of chance while studying descriptive statistics.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Descriptive statistics is concerned with describing and summarizing the data.
+Descriptive statistics can be performed either on a sample or a population.
+1 point
+Central Pollution Control Board wants to check the Air Quality Index (AQI) of all the major cities in India after Diwali to decide if air pollution is reaching unhealthy levels. To do so, they have come up with a list of all the major cities and their respective AQI levels and want to determine which cities among the list have an AQI level greater than 100. What kind of statistics does the above analysis come under?
+
+Descriptive statistics
+
+Inferential statistics
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Descriptive statistics
+1 point
+Suppose we are interested in studying the height of an average Indian adult above the age of 18. Due to practical constraints, it is not possible to collect the data for the whole country. So we decide to choose a sample of 10,000 people. Which of the following choices for this sample do you think is the most representative of the population?
+
+A sample consisting of 10,000 people from Karnataka.
+
+A sample consisting of 10,000 women from South India
+
+A sample consisting of 2000 adults from each part of India (i.e., from northern, southern, eastern, western, and middle parts of India)
+
+A sample consisting of 10,000 people from all over the country who are above 70 kg but below 75 kg.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+A sample consisting of 2000 adults from each part of India (i.e., from northern, southern, eastern, western, and middle parts of India)
+1 point
+Which one of the following statements best describes the difference between population and sample?
+
+Sample is the entire group, while population is a subset of the sample which is used to describe the parameters of the sample.
+
+Sample and population are synonyms of each other
+
+Population is the entire group, while sample is a subset of the population which is used to describe the parameters of the population
+
+Population is all members of an organization while sample is the members of the organization who volunteer to participate in the study.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Population is the entire group, while sample is a subset of the population which is used to describe the parameters of the population
+1 point
+According to the International Cricket Council (ICC), a test cricket ball, when new, should not weigh more than 163 grams. The manufacturers of Duke cricket ball suspected that the average weight of their product is more than 163 grams. To confirm this, 100 Duke cricket balls were selected. Based on this, choose the correct option from below.
+
+The population is all cricket balls; sample is 100 Duke cricket balls
+
+The population is all Duke cricket balls; sample is 100 cricket balls
+
+The population is all Duke cricket balls; sample is 100 Duke cricket balls
+
+The population is all Duke cricket balls; sample is all Duke cricket balls
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+The population is all Duke cricket balls; sample is 100 Duke cricket balls
+1 point
+A director of an engineering institute wants to evaluate the performance of students of all years and all departments (Computer Science, Mechanical Engineering, Electrical and Electronics Engineering, Electronics and Communication Engineering) in the institute. He randomly selects performance reports of 50 students from the first year Computer Science batch. Based on this, choose the correct option from below.
+
+The sample chosen is correct as it is collected randomly.
+
+The sample chosen is wrong as it is not collected randomly
+
+The sample chosen is correct as it is a subset of the population.
+
+The sample chosen is wrong as it is not a representative of the entire population
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+The sample chosen is wrong as it is not a representative of the entire population
+1 point
+A construction company wants to start a house construction business in a city. Since there is a large number of houses, the company collects a sample of houses from the city and uses the properties of the sample to study house prices in the city. Which branch of statistics does the above analysis come under?
+
+Descriptive statistics
+
+Inferential statistics
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Inferential statistics
+1 point
+An online opinion poll was conducted by a film reviewing website to rank Indian films from the 2000s. Among the 1000 films in the list, Bhaag Milkha Bhaag received the maximum number of votes followed by 3 Idiots and Swades respectively. Which branch of statistics does the above analysis come under?
+
+Descriptive statistics
+
+Inferential statistics
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Descriptive statistics Which of the following statement(s) is(are) true about structured data in a spreadsheet?
+
+Each observation must have its own row.
+
+Each variable must have its own column.
+
+For each variable the same type of value for each case is recorded.
+
+For each case the same type of value for each variable is recorded.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Each observation must have its own row.
+Each variable must have its own column.
+For each variable the same type of value for each case is recorded.
+1 point
+What kind of data is lyrics of a song?
+
+Unstructured data
+
+Structured data
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Unstructured data
+1 point
+Data is collected from people of every family living in a locality. The collected information is first name, second name, income, height, weight, blood group, house address, locality. Which among the following collected data is(are) not a variable(s)?
+
+First name
+
+Second name
+
+Income
+
+Height
+
+Weight
+
+Blood group
+
+House address
+
+Locality
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Locality
+1 point
+The values of temperature and relative humidity of a room are measured for 24 hours, starting at 9 AM, at time interval of 30 minutes [Table 1.2.1]. What are the case(s) and variable(s) for this data?
+
+
+
+Temperature is the case; relative humidity and time are the variables
+
+Temperature is the case; relative humidity is the variable
+
+Time is the case; temperature and relative humidity are the variables
+
+Relative humidity is the case; temperature is the variable
+
+9 AM, 9:30 AM, 10 AM are cases; time, temperature, and relative humidity are variables.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+9 AM, 9:30 AM, 10 AM are cases; time, temperature, and relative humidity are variables.
+1 point
+Which of the following is(are) example(s) of unstructured data?
+
+Web pages
+
+Video files
+
+Image files
+
+Phone number
+
+Email address
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Web pages
+Video files
+Image files
+1 point
+Which of the following statement(s) is(are) true?
+
+All the structured data have units.
+
+Comments in a social media platform are structured data.
+
+Unstructured data cannot be used directly to perform statistical analysis.
+
+Mathematical operations can be performed on unstructured data.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Unstructured data cannot be used directly to perform statistical analysis.
+
+In a survey, art students are asked to mention their favourite artist and the amount of time they spend in painting outside the classroom. The data collected are given in Table 1.2.2.
+1 point
+What is the scale of measurement for the amount of money you have?
+
+Nominal
+
+Ordinal
+
+Ratio
+
+Interval
+No, the answer is incorrect.
+Score: 0
+Feedback:
+Amount of money can have a meaningful interval. It also has an absolute zero. Hence, it comes under the ratio scale of measurement.
+Accepted Answers:
+Ratio
+1 point
+What is the scale of measurement for the military titles - Major, Captain, Colonel?
+
+Nominal
+
+Ordinal
+
+Ratio
+
+Interval
+No, the answer is incorrect.
+Score: 0
+Feedback:
+Military titles have a definite rank but they do not have numeric properties; therefore, they have ordinal scale of measurement.
+Accepted Answers:
+Ordinal
+1 point
+Which of the following variables has (have) ratio scale of measurement?
+
+Temperature in Kelvin
+
+Temperature in Centigrade
+
+Year
+
+Angle measured in degrees
+No, the answer is incorrect.
+Score: 0
+Accepted Answers:
+Temperature in Kelvin
+Angle measured in degrees
+1 point
+Which of the following mathematical operation(s) can be performed on interval variables?
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division
+No, the answer is incorrect.
+Score: 0
+Feedback:
+Addition and subtraction can be performed on variables with interval scale of measurement as they have a definite difference between them but multiplication and subtraction upon these variables is not possible because difference between them is not comparable; moreover, they do not have absolute zero.
+Accepted Answers:
+Addition
+Subtraction
+1 point
+Suppose a sample is collected and it is used to describe and summarize the sample, then the study is:
+
+Descriptive
+
+Inferential
+No, the answer is incorrect.
+Score: 0
+Feedback:
+
+Accepted Answers:
+Descriptive
+ 
+
+
+
+Based on the data in Table 1.2.2, answer the following three questions:
+
+1 point
+Is the data given in Table 1.2.2 structured or unstructured?
+
+The data is structured.
+
+The data is not structured.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+The data is structured.
+1 point
+Identify the variable(s) and observation(s) from the dataset given in Table 1.2.2.
+
+Name is an observation
+
+Name, Gender, Amount of time, and Favourite artist are variables
+
+Student and Name are variables
+
+Each student is an observation 
+1 point
+A courier service is interested in knowing customer feedback. The customers are being given the following options to choose from.
+Not satisfied
+Somewhat unsatisfied
+Neutral
+Satisfied
+Very Satisfied
+What scale of measurement has been used here?
+
+Ordinal
+
+Nominal
+
+Interval
+
+Ratio
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Ordinal
+1 point
+For which of the following scale(s) of measurement is rank or order meaningful?
+
+Interval scale
+
+Ratio, interval and ordinal scale
+
+Nominal scale
+
+Ordinal scale
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Interval scale
+Ratio, interval and ordinal scale
+Ordinal scale
+1 point
+A survey has been conducted to determine the amount of time (in minutes) a student below the age of 12 spends on playing video games. The students are being given the following options to choose from.
+Less than 30
+30-45
+45-60
+More than 60
+What kind of scale(s) of measurement has been used here?
+
+Interval scale
+
+Ratio scale
+
+Ratio and Interval scale
+
+Ordinal scale
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Ordinal scale
+1 point
+Katheryn has recently read the booker prize winner “The Discomfort of Evening” by Marieke Lucas Rijneveld, and decided to rate this book on the Goodreads website. There she is asked to rate the book on a scale of 1 - 5. What kind of scale(s) of measurement is(are) being used here for rating?
+
+Interval scale
+
+Ordinal scale
+
+Ratio scale
+
+Both interval and ratio scale
+
+Both interval and ordinal scale
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Interval scale
+1 point
+What can you say about the scale(s) of measurement being used for describing hair color such as blonde, brunette, red, and black?
+
+The scale of measurement is ordinal
+
+The scale of measurement is both ordinal and nominal
+
+The scale of measurement is nominal
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+The scale of measurement is nominal
+1 point
+What is the scale of measurement for phone number?
+
+Ordinal
+
+Nominal
+
+Interval
+
+Ratio
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Nominal
+1 point
+Which of the following is/are true for a variable with ratio scale of measurement?
+
+Addition operation can be performed
+
+Subtraction operation can be performed
+
+Multiplication operation can be performed
+
+Division operation can be performed
+
+The variable with ratio scale of measurement can have zero as one of its values
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Addition operation can be performed
+Subtraction operation can be performed
+Multiplication operation can be performed
+Division operation can be performed
+The variable with ratio scale of measurement can have zero as one of its values
+1 point
+If addition, subtraction can be performed on a variable, then the scale(s) of measurement of the variable could be:
+
+Ratio
+
+Ordinal
+
+Interval
+
+Nominal
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Ratio
+Interval
+ 
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Name, Gender, Amount of time, and Favourite artist are variables
+Each student is an observation
+1 point
+Choose the correct statement(s) from the following:
+
+Statement 1: Amount of time Aakash spends on painting is 0 hr.
+Statement 2: We cannot make any conclusion about Aakash because data is not available to us.
+
+Both the statements are correct.
+
+Statement 1 is correct but statement 2 is not correct.
+
+Statement 2 is correct but statement 1 is not correct
+
+None of the statements are correct
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Statement 2 is correct but statement 1 is not correct
+1 point
+In order to forecast tomorrow’s temperature in Mumbai, the India Meteorological Department collects the temperature, humidity and rainfall data of Mumbai for all days from the past three months. What kind of data is this?
+
+Time series data
+
+Cross-sectional data
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Time series data
+1 point
+What kind of variables are comparative forms of adverbs (like more, less; good, better and best etc.)?
+
+Categorical variables
+
+Numerical variables
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Categorical variables
+1 point
+What kind of variables are date and day of the week?
+
+Categorical and numerical variables respectively
+
+Both are numerical variables
+
+Both are categorical variables
+
+Numerical and categorical variables respectively
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Both are categorical variables
+1 point
+What kind of variable is latitude?(More than one option can be correct)
+
+Numerical
+
+Categorical
+
+Continuous
+
+Discrete
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Numerical
+Continuous
+1 point
+During the Great Depression, several countries across the world experienced a rise in the rate of unemployment. The unemployment rate between the years 1929 and 1942 in the US was recorded on a monthly basis. Determine whether the data is time series or cross-sectional.
+
+The data is time series
+
+The data is cross-sectional
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+The data is time series
+1 point
+Number of days a group of students take to finish a school project is a:
+
+Quantitative and Discrete variable
+
+Quantitative and Continuous variable
+
+Qualitative variable
+
+Quantitative but not discrete or continuous variable
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Quantitative and Discrete variable
+1 point
+What kind of variable is the qualification of a candidate sitting for a job interview?
+
+Categorical/ Qualitative
+
+Numerical/ Quantitative
+
+Numerical and discrete
+
+Numerical and continuous
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Categorical/ Qualitative
+1 point
+Suppose one is interested in calculating the weight of a bag (in kg) before leaving for the airport. What kind of variable is the weight of the bag?
+
+Quantitative and discrete
+
+Quantitative and continuous
+
+Qualitative or categorical
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Quantitative and continuous
+ A local government wants to assess the number of the rich, middle class, and poor people living in a particular region. To understand this, the government defined the categories based on the annual income of its citizens [Table 1.1.A]. Income is measured in lakhs of rupees per year
+
+Poor 		:  income ≤ 4 lakhs
+Middle Class	:  4 lakhs < income ≤ 8 lakhs
+Rich 		:  income > 8 lakhs
+
+
+
+
+1 point
+What kind of a variable is income in the given dataset?
+
+Categorical
+
+Discrete numerical variable
+
+Continuous numerical variable
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+Categorical
+1 point
+What is the scale of measurement of the variable income in the given dataset?
+
+Nominal
+
+Interval
+
+Ordinal
+
+Ratio
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+Ordinal
+
+Use the following information and the data given in Table 1.2.A and Table 1.3.A to answer the questions 3, 4 and 5.
+
+Google provides users with the option to rate any app on their Play Store. A user can rate an app by giving an integer rating from 1 to 5.
+The rating of the app is then computed as the arithmetic mean of all user ratings. Tables 1.2.A and 1.3.A show the rating given by users and average rating of apps respectively.
+
+
+
+
+
+1 point
+What kind of a variable is the rating given by each user to an app?
+
+Categorical
+
+Discrete numerical variable
+
+Continuous numerical variable
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+Discrete numerical variable
+1 point
+What is the scale of measurement of the rating given by the user?
+
+Ordinal
+
+Nominal
+
+Interval
+
+Ratio
+Yes, the answer is correct.
+Score: 1
+Feedback:
+Rating is a numerical variable as discussed in question 3, but it does not have absolute zero; therefore, it has interval scale of measurement.
+Accepted Answers:
+Interval
+1 point
+What kind of a variable is the overall rating of an app on play store?
+
+Categorical
+
+Discrete numerical variable
+
+Continuous numerical variable
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+Continuous numerical variable
+
+Use the following information and the data given in Table 1.4.A to answer the questions 6,7, and 8.
+
+Karthik wants to start a shoe production company for all the Indian market. To analyse public preferences, he hires a team of market researchers who conduct market research in two states: Andhra Pradesh and Maharashtra. The market research team prepares a form to collect the data and the collected dataset is shown in Table 1.4.A
+
+
+
+
+1 point
+Is the sample a representative of the population?
+
+True
+
+False
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+False
+How many variables from the collected survey data are categorical?
+4
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+(Type: Numeric) 4
+1 point
+1 point
+Which of the collected data is unstructured?
+
+S.No
+
+Name
+
+Age (years)
+
+Shoe material
+
+Purpose
+
+Price range
+
+Suggestions
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+Suggestions
+
+Use the following information and the data given in Table 1.5.A to answer the questions 9,10 and 11.
+
+Naresh is a bike enthusiast and wants to know about the specifications of all the major bikes available in the market. He collects data for different bike models which is given in Table 1.5.A.
+
+
+
+
+1 point
+Which of the following is(are) case(s) or observation(s) for the given bike dataset?
+
+KTM 790 Duke
+
+Yamaha MT 09
+
+Yamaha
+
+Displacement in CC
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+KTM 790 Duke
+Yamaha MT 09
+1 point
+Which of the following is(are) continuous variable(s) in the given bike dataset?
+
+Mileage
+
+Displacement
+
+Number of cylinders
+
+Average Rating
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+Mileage
+Displacement
+Average Rating
+1 point
+Statement - The sample should be representative of the population.
+
+True, since the sample is a subset of the population.
+
+True, because the sample is a subset of the population and we derive the properties of the population like mean, median from the sample.
+
+False, sample need not be representative of the population.
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+True, because the sample is a subset of the population and we derive the properties of the population like mean, median from the sample.
+
+Use the following information to answer the questions 12, 13, and 14.
+The head of a locality in Chennai conducted a survey in her locality regarding Covid-19. According to the survey,
+Statement 1: 59% of the residents consider Covid-19 to be a serious disease.
+Statement 2: 41% consider it as normal flu and are of the opinion that there should not be any lockdown.
+
+
+1 point
+Which of the following is a case/observation for the above data?
+
+India
+
+Person who answered the survey
+
+Covid-19
+
+Flu
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+Person who answered the survey
+1 point
+If all the residents of the locality participated in the survey, what statistical analysis can be done using this data?
+
+Inferential statistics
+
+Descriptive statistics
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+Descriptive statistics
+1 point
+Suppose the survey collected data from 100 of the locality residents taken at random. Now, what statistical analysis can be done to issue Statements 1 and 2 from this data?
+
+Inferential statistics
+
+Descriptive statistics
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+Inferential statistics
+
+
+A biomedical company generated a new vaccine for Covid-19 and tested it on the few people. After a few days medical checkup was done on them and the report is given in Table 
+1.
+G
+.1.
+1.G.1. In Table 
+1.
+G
+.1
+1.G.1. 
+B
+P
+BP stands for Blood Pressure, 
+H
+P
+HP stands for High Pressure, and 
+L
+P
+LP stands for Low Pressure. Based on this information and data given in Table 
+1.
+G
+.1
+,
+1.G.1, answer the questions 
+15
+,
+16
+15,16 and 
+17.
+17.
+
+
+
+1 point
+Which of the following variable(s) given in Table 
+1.
+G
+.1
+1.G.1 is/are numerical variables?
+
+Headache
+
+Gender
+
+Weight (Kg)
+
+Temperature (
+o
+F
+o
+ F)
+Yes, the answer is correct.
+Score: 1
+Targeted Feedback:
+Weight (Kg) is a numerical variable as it has specific units (Kilograms : kg) and has numerical properties.
+Temperature (0F) is a numerical variable as it has specific units (Fahrenheit: 0F) and has numerical properties.
+Accepted Answers:
+Weight (Kg)
+Temperature (
+o
+F
+o
+ F)
+1 point
+Which of the following is/are cases?
+
+M
+
+Name
+
+Hitesh
+
+Keerthi
+
+Mild
+
+Gender
+Yes, the answer is correct.
+Score: 1
+Feedback:
+
+Accepted Answers:
+Hitesh
+Keerthi
+1 point
+Which of the following variables have ratio scale of measurement?
+
+Gender
+
+BP (HP/LP)
+
+Weight (Kg)
+
+Temperature (
+o
+F
+o
+ F)
+Yes, the answer is correct.
+Score: 1
+Targeted Feedback:
+Weight (Kg) is a numerical variable. When the weight takes value 0 Kg, the property of weight is absent. Hence, weight (Kg) has ratio scale of measurement.
+Accepted Answers:
+Weight (Kg)
+
+
+In a supermarket, the bill for each customer is given in an ordered tabular form. The bill for the customer Pavithra, which is purchased on 
+1
+1 Mar 
+2021
+,
+2021, is given in Table 
+1.
+G
+.2.
+1.G.2. Assume cost/unit is a continuous numerical variable. Total cost is calculated by the following formula. Total cost = Cost/unit × Units Based on this information and data given in Table 
+1.
+G
+.2
+,
+1.G.2, answer the questions 
+18
+18 and 
+19.
+19.
+
+
+
+1 point
+Which of the following variable/s given in Table 
+1.
+G
+.2
+1.G.2 have ratio scale of measurement?
+
+Cost/unit
+
+Total cost
+
+Units
+
+S.No
+Yes, the answer is correct.
+Score: 1
+Targeted Feedback:
+When the cost per unit is zero, the property of cost per unit is absent. Therefore, cost per unit has ratio scale of measurement.
+Similarly total cost also has ratio scale of measurement as it also has absolute zero.
+Units variable also has ratio scale of measurement as it also has absolute zero and ratio operations are valid.
+Feedback:
+A numerical variable will have ratio scale of measurement, if it has absolute zero. Absolute zero means the property of that variable will be zero when the variable takes the value zero.
+Accepted Answers:
+Cost/unit
+Total cost
+Units
+1 point
+Which of the following statements is/are true about data given Table 
+1.
+G
+.2
+?
+1.G.2?
+
+Cadbury Diary Milk Silk, Cello Fine Grip, and Shimla Apples are cases/observations.
+
+Cost/unit, Units, and Total cost are continuous numerical variables.
+
+Cost/unit and Total cost are continuous numerical variables.
+
+Cost/unit and Units are continuous numerical variables.
+
+The given data in Table 
+1.
+G
+.2
+1.G.2 is time-series data.
+
+The given data in Table 
+1.
+G
+.2
+1.G.2 is cross-sectional data.
+Yes, the answer is correct.
+Score: 1
+Targeted Feedback:
+Each item bought by customer would be cases. So, Cadbury Diary Milk Silk, cello fine grip, Shimla apples. . . are cases. Therefore, option a is correct.
+Given assume cost per unit is a continuous variable. Units can take values 0, 1, 2, 3,.... So, it can take only discrete values. It is a discrete variable. Total cost = Cost per unit × Units. Since, Cost per unit is continuous, total cost will also be continuous numerical variable. Hence, option b and d are incorrect while option c is correct.
+The data is taken from a customer, Pavithra, who purchased items on a given day, 1 Mar 2021. So, it is cross-sectional data. Hence option e is incorrect and option f is correct.
+Accepted Answers:
+Cadbury Diary Milk Silk, Cello Fine Grip, and Shimla Apples are cases/observations.
+Cost/unit and Total cost are continuous numerical variables.
+The given data in Table 
+1.
+G
+.2
+1.G.2 is cross-sectional data.
