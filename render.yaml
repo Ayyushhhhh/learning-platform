@@ -2,7 +2,6 @@ services:
   - type: web
     name: ai-backend
     runtime: docker
-    repo: https://github.com/Ayyushhhhh/learning-platform
     region: oregon
     plan: free
     branch: main
